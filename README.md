@@ -1,5 +1,5 @@
 # 🏨 OYO Hotel Booking Analysis — SQL Project
-                                                                                            -Gulshan Kumar
+                                                                              -Gulshan Kumar
 ## Overview
 SQL-based analysis of OYO hotel bookings covering:
 - City-wise hotel distribution
